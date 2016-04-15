@@ -1,0 +1,47 @@
+
+blow_void_textures.png
+format: RGBA8888
+filter: MipMapNearestNearest,Linear
+repeat: none
+main_screen_tittle
+  rotate: false
+  xy: 1, 153
+  size: 415, 68
+  orig: 415, 68
+  offset: 0, 0
+  index: -1
+play_btn
+  rotate: false
+  xy: 418, 1
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+no_ads_btn
+  rotate: false
+  xy: 1, 19
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+rate_btn
+  rotate: false
+  xy: 640, 89
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+red_bomb
+  rotate: false
+  xy: 135, 23
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+black_bomb
+  rotate: false
+  xy: 640, 23
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
