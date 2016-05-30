@@ -4,3 +4,4 @@ BlowVoid game is my new adnroid game witch i curently develop with libgdx.
  info and some screenshoots. 
  
  All game logic classes are in core folder. This is gradle libgdx project.
+//edit
