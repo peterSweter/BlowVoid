@@ -37,7 +37,7 @@ public class GameManager {
         bombManager = new BombManager(game, level);
 
     }
-
+    //test
     public void update(float delta){
 
         if(level.update()==Level.GAME_OVER){
